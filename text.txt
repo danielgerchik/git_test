@@ -6,3 +6,4 @@ just commit
 new branch for rebase
 test 2
 the newest commit
+TEST SSH PUSH
